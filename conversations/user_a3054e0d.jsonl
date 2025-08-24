@@ -1,0 +1,2 @@
+{"user_id": "user_a3054e0d", "role": "user", "content": "explain about machine learning models", "timestamp": "2025-08-23T22:56:34.443624", "session_id": null}
+{"user_id": "user_a3054e0d", "role": "assistant", "content": "Machine learning models are algorithms that allow computers to learn from data without explicit programming. They identify patterns, make predictions, and improve their accuracy over time.", "timestamp": "2025-08-23T22:57:30.738352", "session_id": null}

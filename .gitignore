@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# OS / Editors
+.DS_Store
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/
+=======
+.env
+>>>>>>> 993f5eb7ece021398002a7fac5515f721db8f218

@@ -1,0 +1,2 @@
+{"user_id": "user_f7c52cdb", "role": "user", "content": "explain about LLM models ", "timestamp": "2025-08-23T23:01:48.091055", "session_id": null}
+{"user_id": "user_f7c52cdb", "role": "assistant", "content": "Large Language Models (LLMs) are AI models trained on massive text datasets to understand and generate human-like text. They use deep learning techniques, particularly transformer networks, to predict the probability of the next word in a sequence.", "timestamp": "2025-08-23T23:02:16.047700", "session_id": null}
